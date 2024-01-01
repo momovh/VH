@@ -1,0 +1,15 @@
+{
+  "name": "vh",
+  "version": "1.0.0",
+  "description": "fbmanager",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fevuhac",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^120.0.1",
+    "selenium-webdriver": "^4.16.0"
+  }
+}
